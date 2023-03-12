@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
 }
 :root {
   --button-color: #2f67cd;
@@ -85,7 +86,7 @@ color: #0b3278;;
   border-radius: 5px;
   border: none;
   padding: 7px;
-  width: 120px;
+  width: 140px;
   transition: all;
   transition-duration: 500ms;
 }
